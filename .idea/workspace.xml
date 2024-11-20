@@ -5,56 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed57dd37-a6e7-4e04-afa4-371eccda243f" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/DeployAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/OwnerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/PetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/dto/PetOwnerDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IOwnerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IPetRespository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IOwnerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IPetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/OwnerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/PetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/src/test/java/com/macasteglione/deployApp/DeployAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/DeployAppApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/ServletInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/OwnerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/PetController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/dto/PetOwnerDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Owner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IOwnerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IPetRespository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IOwnerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IPetService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/OwnerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/PetService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/surefire-reports/TEST-com.macasteglione.deployApp.DeployAppApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/surefire-reports/com.macasteglione.deployApp.DeployAppApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployApp/target/test-classes/com/macasteglione/deployApp/DeployAppApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/DeployAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/OwnerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/PetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/dto/PetOwnerDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IOwnerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IPetRespository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IOwnerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IPetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/OwnerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/PetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/src/test/java/com/macasteglione/deployApp/DeployAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/DeployAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/OwnerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/PetController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/dto/PetOwnerDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Owner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IOwnerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IPetRespository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IOwnerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IPetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/OwnerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/PetService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/surefire-reports/TEST-com.macasteglione.deployApp.DeployAppApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/surefire-reports/com.macasteglione.deployApp.DeployAppApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployApp/target/test-classes/com/macasteglione/deployApp/DeployAppApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +97,9 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.DeployAppApplication.executor": "Run",
+    "Docker.deploy_app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.app_vet: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
     "Maven.deployApp [install].executor": "Run",
     "Maven.deployApp [spring-boot:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,10 +112,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Maven.deployApp [spring-boot:run]">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deploy_app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.deployApp [install]">
     <configuration name="deployApp [install]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -210,6 +215,12 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Maven.deployApp [install]" />
       <item itemvalue="Maven.deployApp [spring-boot:run]" />
@@ -224,6 +235,15 @@
       <option name="presentableId" value="Default" />
       <updated>1732109034681</updated>
     </task>
+    <task id="LOCAL-00001" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1732121021503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732121021503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

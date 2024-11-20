@@ -1,0 +1,13 @@
+com/macasteglione/deployApp/ServletInitializer.class
+com/macasteglione/deployApp/service/OwnerService.class
+com/macasteglione/deployApp/controller/OwnerController.class
+com/macasteglione/deployApp/DeployAppApplication.class
+com/macasteglione/deployApp/model/Owner.class
+com/macasteglione/deployApp/model/Pet.class
+com/macasteglione/deployApp/repository/IOwnerRepository.class
+com/macasteglione/deployApp/service/IPetService.class
+com/macasteglione/deployApp/repository/IPetRespository.class
+com/macasteglione/deployApp/dto/PetOwnerDTO.class
+com/macasteglione/deployApp/service/IOwnerService.class
+com/macasteglione/deployApp/controller/PetController.class
+com/macasteglione/deployApp/service/PetService.class

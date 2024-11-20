@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed57dd37-a6e7-4e04-afa4-371eccda243f" name="Changes" comment="primer commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/DeployAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/OwnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/controller/PetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/dto/PetOwnerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IOwnerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/repository/IPetRespository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IOwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/IPetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/OwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/java/com/macasteglione/deployApp/service/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/src/test/java/com/macasteglione/deployApp/DeployAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/DeployAppApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/ServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/OwnerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/controller/PetController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/dto/PetOwnerDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Owner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/model/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IOwnerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/repository/IPetRespository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IOwnerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/IPetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/OwnerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/classes/com/macasteglione/deployApp/service/PetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/deployApp-0.0.1.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/surefire-reports/TEST-com.macasteglione.deployApp.DeployAppApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/surefire-reports/com.macasteglione.deployApp.DeployAppApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployApp/target/test-classes/com/macasteglione/deployApp/DeployAppApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;macasteglione&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/macasteglione/deployApp.git&quot;,
+    &quot;accountId&quot;: &quot;6eb4a776-017b-4cb2-980d-99010335a9b9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2p7F6aQOYSR148FKbq1UsQ3Vvk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.DeployAppApplication.executor": "Run",
+    "Maven.deployApp [install].executor": "Run",
+    "Maven.deployApp [spring-boot:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/maty/Documents/dev/deployApp",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Maven.deployApp [spring-boot:run]">
+    <configuration name="deployApp [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="deployApp [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map>
+                <entry key="DB_PASSWORD" value="123" />
+                <entry key="DB_URL" value="jdbc:postgresql://localhost:5432/postgres" />
+                <entry key="DB_USER_NAME" value="maty" />
+              </map>
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.deployApp [install]" />
+      <item itemvalue="Maven.deployApp [spring-boot:run]" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed57dd37-a6e7-4e04-afa4-371eccda243f" name="Changes" comment="" />
+      <created>1732109034681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732109034681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/deployApp" />
+    </ignored-roots>
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+  </component>
+</project>

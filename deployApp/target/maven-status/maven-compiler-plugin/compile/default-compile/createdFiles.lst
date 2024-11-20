@@ -1,0 +1,6 @@
+com/macasteglione/deployApp/ServletInitializer.class
+com/macasteglione/deployApp/service/OwnerService.class
+com/macasteglione/deployApp/controller/OwnerController.class
+com/macasteglione/deployApp/DeployAppApplication.class
+com/macasteglione/deployApp/model/Owner.class
+com/macasteglione/deployApp/service/IOwnerService.class
